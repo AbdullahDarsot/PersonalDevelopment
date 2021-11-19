@@ -40,12 +40,10 @@
 
 ## University Presentation and also preparing what to say and do within the presentation to make sure it was at an acceptable level. 
 
-1. the link below is directed to the Q&A session which we recorded.
+> the link below is directed to the Q&A session which we recorded.
 (https://roqit-my.sharepoint.com/:v:/g/personal/amira_begum_roq_co_uk/EVCLhAxJJV9IudVr6QeTPgkB14Hdu9UcywThoxmGsO5Rqg)
 
-<br></br>
 
-## Researched on Selenium to try and understnd whats its used for and how to maximise the tool.
 
 <br></br>
 
@@ -57,5 +55,26 @@
 
 <br></br>
 
-## Learnt windows comand line prompts to make it easier to do things (http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
 
+
+## Selenium
+- Researched on Selenium to try and understnd whats its used for and how to maximise the tool.
+
+- Got on a call with Callum, Toby to make me understand Selenium slightly more as I was a bit unsure on certain parts
+
+- Working on the UAT on my HTML portfolio project. I developed test cases to let me understand how tests works. 
+
+- Tried to get further into Selenium and develop more complex tests. 
+
+-  //when clicking newlesletter on nav bar
+        changePage: async (headless) => {
+            const css = webdriver.By.css('#newsletter');
+            const el = await headless.findElement(css);
+            el.click();
+        }
+
+<br></br>
+
+### Looked into topics which i could do my technical presentation on.
+
+## Learnt windows comand line prompts to make it easier to do things (http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
