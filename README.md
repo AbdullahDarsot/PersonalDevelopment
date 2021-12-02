@@ -78,3 +78,18 @@
 ### Looked into topics which i could do my technical presentation on.
 
 ## Learnt windows comand line prompts to make it easier to do things (http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
+
+## Looked further into Java and continued with our introduction challenege which was set.
+
+## Looked for a topic and researched for my technical presentation.
+
+## Continued working on the Java TopTrump Challenge
+* Created 2 cars that compete against each other.
+* Wrote a few tests in Junit
+* Looking how t store oututs into a variable so that it is testable as it is currently only showed in a string.
+### Started researching in how to further test the game.
+
+## Created another project in JavaScript
+* Recapped and installed Jest to keep it fresh in my mind
+* Wrote tests again and ensure they are successful
+* Looked further into more detailed tests in Jest and also how I can implement that. 
